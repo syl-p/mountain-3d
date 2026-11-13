@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="mountain-3d (tracé de test)" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Boucle de test autour du Pic de Nore</name>
+    <desc>Tracé synthétique pour tester l'appli : il ne suit pas de sentier réel.</desc>
+  </metadata>
+  <trk>
+    <name>Boucle de test - Pic de Nore (Montagne Noire, Aude)</name>
+    <trkseg>
+      <trkpt lat="43.3800" lon="2.4300"></trkpt>
+      <trkpt lat="43.3850" lon="2.4350"></trkpt>
+      <trkpt lat="43.3900" lon="2.4400"></trkpt>
+      <trkpt lat="43.3950" lon="2.4440"></trkpt>
+      <trkpt lat="43.4000" lon="2.4480"></trkpt>
+      <trkpt lat="43.4050" lon="2.4510"></trkpt>
+      <trkpt lat="43.4100" lon="2.4550"></trkpt>
+      <trkpt lat="43.4150" lon="2.4580"></trkpt>
+      <trkpt lat="43.4200" lon="2.4610"></trkpt>
+      <trkpt lat="43.42444" lon="2.46278"></trkpt>
+      <trkpt lat="43.4260" lon="2.4720"></trkpt>
+      <trkpt lat="43.4240" lon="2.4820"></trkpt>
+      <trkpt lat="43.4190" lon="2.4900"></trkpt>
+      <trkpt lat="43.4130" lon="2.4950"></trkpt>
+      <trkpt lat="43.4060" lon="2.4960"></trkpt>
+      <trkpt lat="43.3990" lon="2.4920"></trkpt>
+      <trkpt lat="43.3930" lon="2.4850"></trkpt>
+      <trkpt lat="43.3880" lon="2.4760"></trkpt>
+      <trkpt lat="43.3840" lon="2.4650"></trkpt>
+      <trkpt lat="43.3810" lon="2.4500"></trkpt>
+      <trkpt lat="43.3800" lon="2.4300"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
